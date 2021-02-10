@@ -7,4 +7,7 @@ clean:
 	rm proto/*.go
 
 run:
-	go run server/helloServer.go
+	go run server/main.go
+
+run-c:
+	go run client/main.go
