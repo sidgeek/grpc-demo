@@ -1,4 +1,10 @@
 
+
+0、 init project
+    <!-- go mod init {projectName} -->
+    go mod init helloworld
+
+
 1、 write the proto file to define the rpc function
 
 2、 make go proto function define with protoc
